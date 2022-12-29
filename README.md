@@ -1,4 +1,6 @@
 # Breast Cancer Patient Survival Outcome
+## Team Member
+Zirong Huang, Zhuoqi Cai, Shuhao Wang
 ## Project idea & Problem Definition
 This project topic is not only important to understand the main factors that influence the
 high possibility of death from breast cancer, but also to raise people’s awareness about breast
